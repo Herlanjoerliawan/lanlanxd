@@ -391,7 +391,7 @@ export default function Home() {
                 ) : (
                   <>
                     <MessageCircle className="w-4 h-4 mr-2" />
-                    Kirim via WhatsApp
+                    Beli
                   </>
                 )}
               </Button>
