@@ -14,22 +14,22 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LANLAN STORE - Premium Digital Store",
-  description: "Dapatkan akses premium dengan harga terjangkau. Pilih paket BIASA atau PREMIUM sesuai kebutuhan Anda.",
-  keywords: ["LANLAN STORE", "Premium", "Digital Store", "Paket Premium", "Akses Premium"],
+  title: "LANLAN STORE - Sewa Bot Whatsapp",
+  description: "Dapatkan Bot Whatsapp dengan harga terjangkau. Pilih paket BIASA atau PREMIUM sesuai kebutuhan Anda.",
+  keywords: ["LANLAN STORE", "Sewa", "Bot Whatsapp", "Paket Premium", "Akses Premium"],
   authors: [{ name: "LANLAN STORE" }],
   icons: {
     icon: "/logo.png",
   },
   openGraph: {
-    title: "LANLAN STORE - Premium Digital Store",
+    title: "LANLAN STORE - Sewa Bot Whatsapp",
     description: "Dapatkan akses premium dengan harga terjangkau",
     siteName: "LANLAN STORE",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "LANLAN STORE - Premium Digital Store",
+    title: "LANLAN STORE - Sewa Bot Whatsapp",
     description: "Dapatkan akses premium dengan harga terjangkau",
   },
 };
