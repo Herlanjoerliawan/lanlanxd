@@ -9,8 +9,8 @@ generator client {
 }
 
 datasource db {
-  provider = "sqlite"
-  url      = env("DATABASE_URL")
+  provider = "ezyro_41256022_db"
+  url      = env("sql308.ezyro.com")
 }
 
 model User {
